@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "68741d88851e45529b5ff7d8"
+  },
+  "marca": "Rayban",
+  "graduacion_izq": 2.3,
+  "graduacion_der": 2,
+  "tipo_montura": "Metálica",
+  "color_montura": "Dorada",
+  "color_vidrio_izq": "",
+  "color_vidrio_der": "",
+  "precio": 127,
+  "proveedor": {
+    "_id": {
+      "$oid": "68757e5716f2605fe2e29a01"
+    },
+    "nombre": "Bassol Optica",
+    "direccion": {
+      "calle": "Canet",
+      "num": 30,
+      "piso": 4,
+      "puerta": 3,
+      "ciudad": "Barcelona",
+      "cp": "08037",
+      "pais": "España"
+    },
+    "telefono": "933226500",
+    "fax": "933226577",
+    "cif": "B47665093"
+  },
+  "comprado_por": [
+    {
+      "ventas_id": {
+        "$oid": "6874dc6c13a6046682e61b75"
+      },
+      "cliente": {
+        "cliente_id": {
+          "$oid": "68741349851e45529b5ff7d4"
+        },
+        "nombre": "Pepito G.",
+        "direccion": "Right Street, 123",
+        "telefono": "678921235",
+        "email": "mail@mail.com",
+        "recomendado_por": null,
+        "fecha_registro": {
+          "$date": "2023-09-23T00:00:00.000Z"
+        }
+      }
+    }
+  ]
+}]

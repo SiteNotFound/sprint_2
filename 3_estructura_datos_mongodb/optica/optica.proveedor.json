@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "68757e5716f2605fe2e29a01"
+  },
+  "nombre": "Bassol Optica",
+  "Direccion": {
+    "calle": "Canet",
+    "num": 30,
+    "piso": 4,
+    "puerta": 3,
+    "ciudad": "Barcelona",
+    "cp": "08037",
+    "pais": "España"
+  },
+  "telefono": "933226500",
+  "fax": "933226577",
+  "cif": "B47665093"
+}]

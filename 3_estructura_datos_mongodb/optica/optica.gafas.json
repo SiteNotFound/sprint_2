@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "68741d88851e45529b5ff7d8"
+  },
+  "marca": "Rayban",
+  "graduacion_izq": 2.3,
+  "graduacion_der": 2,
+  "tipo_montura": "Metálica",
+  "color_montura": "Dorada",
+  "color_vidrio_izq": "",
+  "color_vidrio_der": "",
+  "precio": 127,
+  "proveedor_id": {
+    "$oid": "68757e5716f2605fe2e29a01"
+  }
+}]
