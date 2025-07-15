@@ -21,6 +21,6 @@ La óptica necesita almacenar y gestionar la siguiente información:
 
 ## Objetivo
 
-Diseñar una base de datos que permita guardar toda esta información.
+Diseñar una base de datos que permita guardar toda esta información y muestre la interficie gráfica desde el punto de vista del cliente y desde el punto de vista de las gafas.
 
 
